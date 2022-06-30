@@ -11,6 +11,15 @@ Once you installed Docker and this is your first time using it, we recommend you
 
 https://docs.docker.com/get-started/#start-the-tutorial
 
+#Installing Docker Compose
+
+You are required to install docker compose on your system. follow this https://docs.docker.com/compose/install/
+
+If you are using ubuntu then run before command for installing docker-compose
+```
+sudo apt install docker-compose
+```
+
 # Installing Git
 
 You are required to install git on your system. Please follow this https://github.com/git-guides/install-git 
@@ -25,7 +34,7 @@ git clone https://github.com/ronigithub/Supervisor-management-notification-modul
 goto the project root directory
 
 ```
-cd supervisor-management-notification-module
+cd Supervisor-management-notification-module
 ```
 
 # Run project into docker 
