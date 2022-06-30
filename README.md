@@ -18,15 +18,28 @@ You are required to install git on your system. Please follow this https://githu
 # Setup project
 Clone the git repository by command
 
+```
 git clone https://github.com/ronigithub/Supervisor-management-notification-module.git
+```
 
-goto the project root directory 
-cd Supervisor-management-notification-module
+goto the project root directory
+
+```
+cd supervisor-management-notification-module
+```
 
 # Run project into docker 
 
+You will the see the docker-compose.yml file in root directory. 
+
+Open terminal here and run below command 
+
+```
 sudo docker-compose up
+```
 
 # Use project
+
+After running both application in docker
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
