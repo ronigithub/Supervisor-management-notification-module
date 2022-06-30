@@ -47,6 +47,16 @@ Open terminal here and run below command
 sudo docker-compose up
 ```
 
+If you changes anything in code base then you need to have build again for see the changes for that run 
+```
+sudo docker-compose build
+```
+
+```
+sudo docker-compose up
+```
+
+
 # Use project
 
 After running both application in docker
