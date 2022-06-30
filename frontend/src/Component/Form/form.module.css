@@ -1,0 +1,48 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.col6{
+    flex-basis: 48%;
+}
+
+.col12 {
+    flex-basis: 100%;
+}
+
+.blockInput{
+    width: 100%;
+}
+
+.label {
+    margin-bottom: 10px;
+}
+
+.fieldBottomSpace {
+    margin-bottom: 40px;
+}
+
+.prefer {
+    margin-bottom: 20px;
+    color: #979797;
+}
+
+.submit{
+    padding: 10px 40px;
+    background-color: #979797;
+    color: #fff;
+}
+
+.submit:hover{
+    cursor: pointer;
+}
+
+.submitArea{
+    margin-top: 40px;
+}
+
+.danger{
+    color: red;
+}

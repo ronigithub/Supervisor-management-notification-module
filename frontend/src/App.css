@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #ebebeb;
+}
+
+.main{
+  width: 50%;
+  margin: 50px auto;
+}
+
+input[type=text], input[type=email]{
+  height: 35px;
+  border: 0;
+}
+
+input[type=text]:focus, input[type=text]:focus-visible {
+  border: 1px solid #9b9b9b;
+}
+
+select{
+  height: 35px;
+  border: 0;
+  background-color: #fff;
+  width: 300px;
+}
+
+.d-h-center{
+  display: flex;
+  justify-content: center;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-left{
+  text-align: left;
+}
