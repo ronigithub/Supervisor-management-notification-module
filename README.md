@@ -11,7 +11,7 @@ Once you installed Docker and this is your first time using it, we recommend you
 
 https://docs.docker.com/get-started/#start-the-tutorial
 
-#Installing Docker Compose
+# Installing Docker Compose
 
 You are required to install docker compose on your system. follow this https://docs.docker.com/compose/install/
 
