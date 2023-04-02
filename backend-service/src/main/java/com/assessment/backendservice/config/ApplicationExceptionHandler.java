@@ -10,6 +10,9 @@ import org.springframework.web.context.request.ServletWebRequest;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Global Exception handler
+ */
 @RestControllerAdvice
 public class ApplicationExceptionHandler {
 
